@@ -1,0 +1,23 @@
+{
+  "name": "expresstest",
+  "version": "1.0.0",
+  "description": "express test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KKbeom/expressTest.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "KKbeom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KKbeom/expressTest/issues"
+  },
+  "homepage": "https://github.com/KKbeom/expressTest#readme",
+  "dependencies": {}
+}
